@@ -143,3 +143,9 @@
   transition-delay: 0.2s;
   transition: 0.4s;
 }
+
+.companyLogo:hover {
+  filter: invert(74%) sepia(21%) saturate(2095%) hue-rotate(132deg) brightness(102%) contrast(107%);
+  transition-delay: 0.2s;
+  transition: 0.4s;
+}
