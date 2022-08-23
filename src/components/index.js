@@ -11,6 +11,7 @@ import Hero from "./Hero";
 import Navbar from "./Navbar";
 import Stats from "./Stats";
 import Testimonials from "./Testimonials";
+import ScrollToTop from "./ScrollToTop";
 
 export {
     Billing,
@@ -25,5 +26,6 @@ export {
     Hero,
     Navbar,
     Stats,
-    Testimonials
+    Testimonials,
+    ScrollToTop 
 };
