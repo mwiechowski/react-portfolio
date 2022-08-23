@@ -4,8 +4,8 @@ import FeedbackCard from "./FeedbackCard"
 
 const Testimonials = () => (
   <section id="clients" className={`${styles.paddingY} ${styles.flexCenter} flex-col relative`}>
-    {/* gradient TO DO*/}
-    <div />
+    {/* gradient */}
+    <div className="z-0 absolute w-[60%] h-[60%] -right-[50%] rounded-full blue__gradient" />
     
     <div className="w-full flex justify-between items-center md:flex-row flex-col mb-16 bg-6 relative z-1">
       <h1 className={styles.heading2}>What people are <br className="sm:block hidden" /> saying about us...</h1>
